@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676582625534",
+    "project_id": "refundweb-fc0ce",
+    "storage_bucket": "refundweb-fc0ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676582625534:android:e9ab9ad333f9a94a1d55af",
+        "android_client_info": {
+          "package_name": "com.example.refund"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSzDSHb5Eiz9xUrH0jK7dLP3Sk9su5spg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
